@@ -1,4 +1,4 @@
-# CodeAlpha Python Internship Task 2
+# CodeAlpha Python Internship Task 03
 
 🚀 Excited to share that I have successfully completed my second task at CodeAlpha Python Internship! 💼💻 Added bonus: Check out this Python script I built that automatically organizes files in a directory based on their types! 📂
 
@@ -12,7 +12,7 @@
 2. Run the script by providing the directory path where you want to organize files.
 3. Sit back and let the script do the work for you!
 
-💡 Get the script [here](#) [Link to GitHub Gist or Repository].
+💡 Get the script [here](#) https://github.com/shoaibkorai/CodeAlpha_FILE_ORGANIZER.git
 
 🙌 Let's simplify file management together! Give it a try and let me know what you think in the comments below.
 
